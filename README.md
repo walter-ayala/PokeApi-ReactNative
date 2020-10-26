@@ -26,9 +26,17 @@ Aplicación React Native CLI
 # Credenciales firebase
 
 
-user: bustillowa@gmail.com
+email: bustillowa@gmail.com
 
 password: prueba123
+
+
+# Credenciales de algunas cuentas creadas
+
+email: prueba123@test.com password: prueba123
+
+email: prueba234@test.com password: prueba234
+
 
 # Uso
 
